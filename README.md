@@ -9,6 +9,13 @@
 An immutable version of a JavaScript Date.
 
 
+## Installation
+
+```sh
+npm install --save qc-immutable_date
+```
+
+
 [downloads-image]: http://img.shields.io/npm/dm/qc-immutable_date.svg
 [downloads-url]: http://npm-stat.com/charts.html?package=qc-immutable_date
 [license-image]: http://img.shields.io/npm/l/qc-immutable_date.svg
